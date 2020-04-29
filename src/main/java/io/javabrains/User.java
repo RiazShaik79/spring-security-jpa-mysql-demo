@@ -1,4 +1,4 @@
-package io.javabrains.model;
+package io.javabrains;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
